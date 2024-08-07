@@ -2,7 +2,10 @@
 
 This project utilizes Python 🐍, Flask 🌐, and Linear Regression 📈 to predict house prices based on housing data from Kaggle. Whether you're a real estate enthusiast or just curious about predicting house prices, this tool provides an intuitive interface to explore and predict potential prices.
 
-# What is Flask? 🌟
+## Table of Contents
+1. [Tech Stacks](#what-is-flask?)
+
+# What is Flask? 
 
 Flask is a lightweight web application framework for Python. It's known for its simplicity and flexibility, making it a popular choice for building web applications, including those with machine learning models like our House Price Prediction tool.
 
