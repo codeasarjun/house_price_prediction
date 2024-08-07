@@ -4,8 +4,10 @@ This project utilizes Python 🐍, Flask 🌐, and Linear Regression 📈 to pre
 
 ## Table of Contents
 1. [Tech Stacks](#what-is-flask?)
+2. [How to Use](#how-to-use)
 
-# What is Flask? 
+
+## What is Flask? 
 
 Flask is a lightweight web application framework for Python. It's known for its simplicity and flexibility, making it a popular choice for building web applications, including those with machine learning models like our House Price Prediction tool.
 
@@ -16,7 +18,7 @@ Linear Regression is a fundamental statistical method used to model the relation
 The dataset used in this project, house_data.csv, sourced from Kaggle, contains information about various factors that influence housing prices. <br>
 It includes features such as , number of bedrooms, number of bathrooms, floors, and more. These features are utilized by the Linear Regression model to predict house prices.
 
-# How to Use 🚀
+## How to Use 
 To get started with House Price Prediction:<br>
 
 Clone this repository to your local machine.<br>
